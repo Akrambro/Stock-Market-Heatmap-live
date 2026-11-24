@@ -1,0 +1,6 @@
+{
+  "name": "TradeTiger Equity Heatmap",
+  "description": "Real-time NSE stock heatmap dashboard with Nifty index filtering, Open=Low/High detection, and custom TradeTiger color scales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
